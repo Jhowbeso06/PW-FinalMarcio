@@ -1,0 +1,19 @@
+        html {
+            background-attachment: fixed;
+            margin: auto;
+            margin: 0 auto;
+            width: 960px;
+            margin-top: 20px;
+            padding: 10px;
+            color: ghostwhite;
+            background-color: #363636;
+        }
+        
+        .bloco {
+            margin: 0 auto;
+            width: 960px;
+            margin-top: 20px;
+            padding: 10px;
+            color: ghostwhite;
+            background-color: mediumblue;
+        }
